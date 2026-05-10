@@ -59,15 +59,14 @@
  
 ### 🚀 Featured Projects
  
-<div align="center">
-| Project | Description | Tech |
-|---|---|---|
-| [🌐 IIBT-Website](https://github.com/hamsathumar/IIBT-Website) | Official website for IIBT Campus | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [💼 Portfolio](https://github.com/hamsathumar/Portfolio) | My personal developer portfolio | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| [🔬 Lense-Lab](https://github.com/hamsathumar/Lense-Lab) | Lab project built with HTML | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [🚀 KW Launch Ceremony](https://github.com/hamsathumar/kw-oddamavadi-launch-ceremony) | KW Oddamavadi Development Plan 2026–2035 display | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+🌐 **[IIBT-Website](https://github.com/hamsathumar/IIBT-Website)** — Official website for IIBT Campus &nbsp; ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
  
-</div>
+💼 **[Portfolio](https://github.com/hamsathumar/Portfolio)** — My personal developer portfolio &nbsp; ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+ 
+🔬 **[Lense-Lab](https://github.com/hamsathumar/Lense-Lab)** — Lab project built during coursework &nbsp; ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+ 
+🚀 **[KW Launch Ceremony](https://github.com/hamsathumar/kw-oddamavadi-launch-ceremony)** — KW Oddamavadi Development Plan 2026–2035 &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+ 
 ---
  
 ### 🌐 Connect With Me
@@ -108,3 +107,4 @@
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer&animation=fadeIn" alt="footer" />
 </div>
+ 
