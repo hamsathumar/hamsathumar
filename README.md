@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hamsath%20Umar&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Industrial%20Information%20Technology%20%7C%20Uva%20Wellassa%20University&descSize=16&descAlignY=60&descColor=8b949e&animation=fadeIn" />
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Hamsath+%F0%9F%91%8B;Industrial+IT+Undergraduate+%F0%9F%8E%93;Web+Developer+%7C+Problem+Solver+%F0%9F%92%BB;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I%27m+Hamsath+%F0%9F%91%8B;Industrial+IT+Undergraduate+%F0%9F%8E%93;Web+Developer+%7C+Problem+Solver+%F0%9F%92%BB;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 </div>
 ---
  
@@ -60,13 +60,13 @@
 ### 🚀 Featured Projects
  
 <div align="center">
-<a href="https://github.com/hamsathumar/IIBT-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamsathumar&repo=IIBT-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/hamsathumar/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamsathumar&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
+| Project | Description | Tech |
+|---|---|---|
+| [🌐 IIBT-Website](https://github.com/hamsathumar/IIBT-Website) | Official website for IIBT Campus | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [💼 Portfolio](https://github.com/hamsathumar/Portfolio) | My personal developer portfolio | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [🔬 Lense-Lab](https://github.com/hamsathumar/Lense-Lab) | Lab project built with HTML | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [🚀 KW Launch Ceremony](https://github.com/hamsathumar/kw-oddamavadi-launch-ceremony) | KW Oddamavadi Development Plan 2026–2035 display | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+ 
 </div>
 ---
  
@@ -98,13 +98,13 @@
 ### 📈 Contribution Activity
  
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamsathumar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamsathumar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 ---
  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=hamsathumar&label=Profile+Views&color=58a6ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=hamsathumar&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
 <br /><br />
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer&animation=fadeIn" alt="footer" />
 </div>
